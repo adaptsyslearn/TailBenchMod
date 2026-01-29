@@ -3,8 +3,8 @@ The harness folder has been updated from original [TailBench](https://tailbench.
 
 Works fine for: 
 
-OS - Ubuntu 22.04.5 LTS
-Kernel - 6.8.0-59-generic
+OS - Ubuntu 22.04.5 LTS <br>
+Kernel - 6.8.0-59-generic <br>
 Architecture - Raptor Lake Refresh 
 
 # Install tailbench.inputs from the following command - 
